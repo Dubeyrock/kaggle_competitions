@@ -1,4 +1,4 @@
-# kaggle_competitions
+# kaggle_competition
 
 
 Competitions
